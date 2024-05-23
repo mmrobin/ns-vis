@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-# to pass regular expressions to Beautiful Soup
 import re
 
 # list of US states -- used to search with BeautifulSoup
@@ -24,17 +23,21 @@ with open('states.txt', 'w') as file:
         file.write(f'{state}\n')
 '''
 
+# create the states list
+# it is better to have this as a separate file
 stateFile = open('states.txt', 'r')
 states = []
 for state in stateFile.readlines():
     states.append(state[:-1])
 stateFile.close()
 
-# print(states)
+# print(len(states))
 
 # download Wikipedia article
 # page = requests.get("https://en.wikipedia.org/wiki/List_of_U.S._places_named_after_non-U.S._places")
 
+# saved local version of Wikipedia page
+# (to be able to work locally and not scrape them every time)
 page = open("page.html")
 htmlContent = BeautifulSoup(page, 'html.parser')
 
@@ -108,19 +111,33 @@ def findCities(state):
         # print(city)
         pass
 
-    return cities, len(cities)
+    return cities
 
 ####    COUNT US PLACES    ####
 
 count = 0
 best = 0
 bestState = 0
+allCities = []
 for state in states:
-    stateCount = findCities(state)[1]
+    cities = findCities(state)
+    stateCount = len(cities)
+    # add to the total count of cities found
     count += stateCount
     if stateCount > best:
         best = stateCount
         bestState = state
+    for city in cities:
+        allCities.append(city)
 
 print(f"Found {count} US places named after non-US places")
 print(f"{bestState} has the most, with {best}")
+
+# used to write cities.txt
+# this file contains all US cities found in the Wikipedia page
+'''
+with open('cities.txt', 'w') as cityFile:
+    for city in allCities:
+        cityFile.write(city+"\n")
+'''
+# there are 1299 cities (need to remove a few outliers)
