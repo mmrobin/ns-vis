@@ -131,7 +131,7 @@ def digest(country):
         # block.td is the first <td> tag
         namesake = block.td.get_text()
         if "\n" in namesake:
-            namesake = namesake[:-2]
+            namesake = namesake[:-1]
 
         for td in block:
             # print(td.get_text())
@@ -162,6 +162,7 @@ def digest(country):
 
     tr_ns_trimmed = {ns:rs for (ns,rs) in zip(ns_trimmed, rs_trimmed)}
     print(tr_ns_trimmed)
+    print()
 
     # dictionary of the form namesake: [US place(s)]
     ns_us = {}
@@ -177,6 +178,44 @@ def digest(country):
 
         matches = []
         for line in block:
+            formatted = line.get_text().split('\n')
+            
+            # formatted = line_text.split('\n')
+            formatted = [k for k in formatted if k != '']
+            # print(formatted)
+
+            try:
+                formatted.remove(namesake)
+            except:
+                pass
+            
+            match = formatted[0]
+
+            '''
+            # unclear why, but there are sometimes empty strings
+            # in the formatted list (remove these with a convoluted ass method)
+            if (len(matches) == 0):
+                # 
+                match = formatted[1]
+            else:
+                match = formatted[0]
+            '''
+
+            # some names of matched cities have references like [69]
+            # it is important to remove these for data consistency
+            if '[' in match:
+                cutoff = match.index('[')
+                match = match[:cutoff]
+            else:
+                pass
+            
+            matches.append(match)
+            
+            '''
+            # formatted = formatted.replace('\n', '')
+            # print(formatted)
+            # print(f'Line Text: {line_text} ({type(line_text)})')
+
             names = line.find_all(string=re.compile(".*, .*"))
 
             for name in names:
@@ -192,7 +231,20 @@ def digest(country):
             else:
                 matches.append(names[0])
 
-        print(f"{namesake}: rowspan = {rowspan}\n{matches}")
+            '''
+        
+        # print(f"{namesake}: rowspan = {rowspan}\n{matches}")
+
+        ns_us[namesake] = matches
+
+    for city in ns_us:
+        print(city)
+        for us_place in ns_us[city]:
+            print(f'\t{us_place}')
+        print()
+    print()
+
+    return ns_us
 
 
 
