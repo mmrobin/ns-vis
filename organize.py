@@ -56,5 +56,36 @@ def printCities(state=None):
     return 0
 
 
+from scrape import digest
+from bs4 import BeautifulSoup
+
+forbidden = ['Egypt', 'United_Kingdom']
+
+page = open("page.html")
+htmlContent = BeautifulSoup(page, 'html.parser')
+
+html = str(htmlContent)
+tableList = html.split('<h2>')
+countries = {}
+for table in tableList[1:-3]:
+    soup = BeautifulSoup(table, 'html.parser')
+    country = soup.find("span")["id"]
+    if ".28" in country:
+        cutoff = country.index("_")
+        country = country[:cutoff]
+    countries[country] = soup
+
+'''
+with open('master.txt', 'w') as master:
+    for country in countries:
+        if country in forbidden:
+            pass
+        else:
+            country_info = digest(country)
+            for pair in country_info:
+                master.writelines(pair+"\n")
+'''
+
+
 
 

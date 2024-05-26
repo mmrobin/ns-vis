@@ -1,0 +1,639 @@
+Kabul
+Vlorë
+Algiers
+Oran
+Angola
+La Plata
+Ballarat, Victoria
+Brisbane, Queensland
+Melbourne, Victoria
+Rockhampton, Queensland
+Deutsch-Wagram
+Freistadt
+Vienna
+Wels
+Baku
+Antwerp
+Bastogne
+Brussels
+Charleroi
+Ghent
+Hoboken
+Liège
+Namur
+Rosières
+Walhain
+Waterloo
+Watervliet
+Bolivia
+La Paz
+Potosí
+Brazil
+Pleven
+Shumen (formerly: Shumla)
+Sofia
+Varna
+Inwa
+Mandalay
+Acton, Ontario
+Alma, Ontario
+Amherst, Nova Scotia
+Annapolis Valley, Nova Scotia
+Ardoch, Ontario
+Auburn, Ontario
+Aylmer, Ontario
+Ayr, Ontario
+Beaverton, Ontario
+Belleville, Ontario
+Brampton, Ontario
+Brantford, Ontario
+Calgary, Alberta
+Chatham-Kent, Ontario
+Cobourg, Ontario
+Conway, Ontario
+Devizes, Ontario
+Dundas, Ontario
+Fenwick, Ontario
+Fingal, Ontario
+Galt, Ontario
+Gentilly, Quebec
+Glenburn, Ontario
+South Glengarry, Ontario
+Guelph, Ontario
+Halifax, Nova Scotia
+Hamilton, Ontario
+Hatley, Quebec
+Hemmingford, Quebec
+Holyrood, Ontario
+Inglewood, Ontario
+Joliette, Quebec
+Kenmore, Ontario
+Keswick Ridge, New Brunswick
+Kingston, Ontario
+Kinloss, Ontario[38]
+Lindsay, Ontario
+Minto, Ontario
+Moncton, New Brunswick
+Montreal, Quebec
+Napanee, Ontario
+Omemee, Ontario
+Ontario, Canada
+Orillia, Ontario
+Oshawa, Ontario
+Osnabruck, Ontario
+Perth, Ontario
+Pictou, Nova Scotia
+Quebec City, Quebec
+Regina, Saskatchewan
+Saint-Jean-sur-Richelieu, Quebec
+St. Thomas, Ontario
+Sarnia, Ontario
+Sherbrooke, Quebec
+Sydney, Nova Scotia
+Simcoe, Ontario
+Strabane, Ontario[46]
+Terrebonne, Quebec
+Thedford, Ontario
+Toronto, Ontario
+Truro, Nova Scotia
+Uxbridge, Ontario
+Watford, Ontario
+Windsor, Ontario
+Valparaíso
+Beijing
+China
+Guangzhou
+Jilin City
+Nanjing
+Shanghai
+Wusong
+Bogotá
+Cuba
+Havana
+Matanzas
+Miramar, Havana
+Yara
+Beroun
+Brno
+Dolní Loučky
+Domažlice (German: Taus)
+Frenštát pod Radhoštěm
+Frýdek-Místek
+Horní Loučky
+Hostýn
+Hradec Králové
+Karlín
+Karlovy Vary (German: Karlsbad)
+Kolín
+Malín (part of Kutná Hora)
+Lidice
+Litice Castle
+Mělník
+Nechanice
+Olomouc (German: Olmütz)
+Pacov (German: Patzau)
+Písek
+Plzeň (German: Pilsen)
+Prague
+Protivín
+Rožnov pod Radhoštěm
+Roztoky
+Slavkov u Brna (German: Austerlitz)
+Tábor
+Veselí nad Lužnicí
+Vodňany
+Vsetín
+Copenhagen
+Helsingør
+Nysted
+Odense
+Ringsted
+Torning
+Viborg
+Quito
+Finland
+Liminka
+Oulu
+Paavola
+Pori
+Salo
+Tapiola
+Toijala
+Vaasa
+Abbeville
+Aix-en-Provence
+Avallon
+Bayonne
+Beaufort-en-Anjou
+Belfort
+Bethune
+Bordeaux
+Boulogne-sur-Mer
+Calais
+Château de la Grange-Bléneau
+Châteaugay
+Chantilly, Oise
+Cherbourg
+Clermont-Ferrand
+Colmar
+Dunkirk
+Exermont
+Ferney-Voltaire
+Grenoble
+Guyencourt
+La Rochelle
+Le Havre
+Lille
+Lourdes
+Lyon
+Marseille
+Menton
+Metz
+Montpellier
+Nice
+Orléans
+Paris
+Roanne
+Roubaix
+Saint-Cloud
+Sainte-Mère-Église
+Saint-Omer
+Sedan
+Strasbourg
+Toulon
+Valmy
+Vaucluse
+Verdun
+Versailles
+Vichy
+Vincennes
+Wissembourg, Alsace
+Tbilisi
+Altona, Hamburg
+Amelith, Lower Saxony
+Arnsberg, North Rhine-Westphalia
+Augsburg, Bavaria
+Baden-Baden, Baden-Württemberg
+Bad Pyrmont, Lower Saxony
+Benzen, Lower Saxony
+Bergholz, Mecklenburg-Vorpommern
+Berlin
+Bingen am Rhein, Rhineland-Palatinate
+Blindheim, Bavaria
+Bonn, North Rhine-Westphalia
+Braunschweig, Lower Saxony
+Bremen, Free Hanseatic City of Bremen
+Brilon, North Rhine-Westphalia
+Coburg, Bavaria
+Cologne, North Rhine-Westphalia
+Cottbus, Brandenburg
+Crivitz
+Darmstadt, Hesse
+Dissen, Lower Saxony
+Dolberg [de], North Rhine-Westphalia
+Dresden, Saxony
+Durlach, Baden-Württemberg
+Dutzow, Mecklenburg-Vorpommern
+Eitzen, Lower Saxony
+Elberfeld, Wuppertal, North Rhine-Westphalia
+Emden, Lower Saxony
+Emmerich am Rhein, North Rhine-Westphalia
+Ettersburg, Thuringia
+Flensburg, Schleswig-Holstein
+Frankfurt-am-Main, Hesse
+Freiburg, Lower Saxony
+Fulda, Hesse
+Glandorf, Lower Saxony
+Gotha, Thuringia
+Hamburg
+Hannover, Lower Saxony
+Heidelberg, Baden-Württemberg
+Hohenlinden, Bavaria
+Jena, Thuringia
+Karlsruhe, Baden-Württemberg
+Kiel, Schleswig-Holstein
+Landau, Rhineland-Palatinate
+Lastrup, Lower Saxony
+Leipzig, Saxony
+Lennep, North Rhine-Westphalia
+Lübeck, Schleswig-Holstein
+Lützen, Saxony-Anhalt
+Mannheim, Baden-Württemberg
+Mainz, Rhineland-Palatinate
+Marne, Schleswig-Holstein
+Melle, Lower Saxony
+Meppen, Lower Saxony
+Minden, North Rhine-Westphalia
+Münster, North Rhine-Westphalia
+Munich, Bavaria
+Neuburg an der Donau, Bavaria
+Neu-Ulm, Bavaria
+Niederfrohna, Saxony
+Norden, Lower Saxony
+Offenburg, Baden-Württemberg
+Oldenburg, Lower Saxony
+Olpe, North Rhine-Westphalia
+Paderborn, North Rhine-Westphalia
+Paitzdorf, Thuringia
+Potsdam, Brandenburg
+Rheinberg, North Rhine-Westfalia
+Rheydt, North Rhine-Westphalia
+Riegel am Kaiserstuhl, Baden-Württemberg
+Seelitz, Saxony
+Stendal, Saxony-Anhalt
+Stuttgart, Baden-Württemberg
+Trier, Rhineland-Palatinate
+Ulm, Baden-Württemberg
+Wartburg Castle, Thuringia
+Weimar, Thuringia
+Weingarten, Württemberg
+Weinsberg, Baden-Württemberg
+Welda, North Rhine-Westphalia
+Wittenberg, Saxony-Anhalt
+Worms, Rhineland-Palatinate
+Zell am Harmersbach, Baden-Württemberg
+Athens
+Larissa
+Nafpaktos (Venetian: Lepanto)
+Tempe
+Thessaloniki
+Volos
+Copán
+Buda
+Budapest
+Szombathely (Latin: Savaria or Sabaria)
+Tokaj
+Akranes
+Þingvellir
+Almora, Uttarakhand
+Chennai (Madras), Tamil Nadu
+Delhi, National Capital Territory
+Golkonda, Telangana
+Kolkata, West Bengal
+Lucknow, Uttar Pradesh
+Mumbai (Bombay), Maharashtra
+Salem, Tamil Nadu
+Shimla, Himachal Pradesh
+Vadodara, Gujarat
+Vrindavan, Uttar Pradesh
+Jakarta (Batavia)
+Baghdad
+Ardmore, County Waterford
+County Antrim
+Athlone, County Westmeath
+Avoca, County Wicklow
+Bandon, County Cork
+Bantry, County Cork
+Carbury, County Kildare
+Carrick-on-Suir, County Tipperary
+Cashel, County Tipperary
+Castlefin, County Donegal
+County Clare
+Clonmel, County Tipperary
+Clontarf, Dublin
+Cork
+Croom, County Limerick
+Dollymount, Dublin
+County Donegal
+Donnybrook, Dublin
+Dromore, County Down
+Dublin
+Duncannon, County Wexford
+Dundalk, County Louth
+Greencastle, County Donegal
+Kenmare, County Kerry
+Kildare
+Kilkenny
+Killarney, County Kerry
+Kinsale, County Cork
+Letterkenny, County Donegal
+Limerick
+Lismore, County Waterford
+Lucan, Dublin
+Menlo, County Galway
+Monaghan
+Moville, County Donegal
+Rathdrum, County Wicklow
+County Roscommon
+Sligo
+Tralee, County Kerry
+County Tyrone
+Waterford
+Westport, County Mayo
+County Wexford
+Aosta Valley
+Ancona
+Anzio
+Arcole
+Asti
+Carrara
+Como
+Cremona
+Florence
+Genoa
+Imola
+La Verna
+Lido di Venezia
+Lodi
+Loreto, Marche
+Mantua
+Milan
+Modena
+Mondovì
+Naples
+Padua
+Palermo
+Parma
+Pavia
+Ravenna
+Rome
+Salerno
+Savona
+Sorrento
+Spinetta Marengo
+Subiaco, Lazio
+Taranto
+Tivoli, Lazio
+Trento
+Turin
+Venice
+Verona
+Tokyo
+Riga
+Livonia
+Lebanon
+Baalbek
+Mount Lebanon
+Tripoli
+Vilnius (Polish: Wilno)
+Luxemburg (German: Luxemburg)
+Malta
+Timbuktu
+Acala Municipality, Chiapas
+Alvarado, Veracruz
+Arizpe, Sonora
+Atlixco, Jalisco
+Buena Vista, Coahuila
+Camargo, Chihuahua
+Camargo Municipality, Tamaulipas
+Chalco de Díaz Covarrubias, state of Mexico
+Churubusco, Federal District
+Córdoba, Veracruz
+Durango City, Durango
+La Paz, Baja California Sur
+León, Guanajuato
+Magdalena Contreras, Federal District
+Matamoros, Tamaulipas
+Mexico
+Ciudad Mier, Tamaulipoas
+Monterrey, Nuevo León
+Parral, Chihuahua
+Perote, Veracruz
+Saltillo, Coahuila
+Talpa de Allende, Jalisco
+Tampico, Tamaulipas
+Taxco, Guerrero
+Toluca, state of Mexico
+Veracruz, Veracruz
+Xalapa, Veracruz
+Essaouira
+Casablanca
+Morocco
+Tangier
+Almelo
+Amsterdam
+Arnhem
+Bergen (North Holland) or Bergen-op-Zoom
+Borculo
+Breukelen
+Breda
+Brielle
+Delft
+Drenthe
+Friesland
+Gelderland
+'s-Gravenzande
+Groningen
+Haarlem
+The Hague
+Harlingen
+Heemstede
+Leiden
+Middelburg
+Nijmegen
+Noordeloos
+Oostburg
+Overijssel
+Rotterdam
+South Holland (Zuid-Holland)
+Utrecht
+Venlo
+Vlissingen
+Zeeland
+Zutphen
+Zwolle
+Arendal
+Aurdal
+Bergen
+Bygland
+Dovre
+Drammen
+Eidsvoll
+Folden
+Fossum, Telemark
+Fron
+Hamar
+Hammerfest
+Heddal
+Hoffland
+Kongsberg
+Lier, Buskerud
+Nedstrand
+Norway
+Norum Parish, Sogn og Fjordane
+Oslo
+Paulsbo (a farm)
+Sandnes
+Solum
+Solør
+Stavanger
+Sundal
+Trondheim (formerly Nidaros)
+Trysil
+Tynset
+Kalat
+Lahore
+Palestine
+Colón
+Panama City
+Portobelo, Colón
+Callao
+Cerro de Pasco
+Cusco
+Lima
+Perú
+Manila
+Częstochowa
+Elbląg (German: Elbing)
+Gdańsk (German: Danzig)
+Gniezno
+Kłodzko (German: Glatz)
+Kraków
+Lublin
+Miasteczko Krajeńskie (German: Friedheim)
+Opole
+Poznań (German: Posen)
+Radom
+Szczecin (German: Stettin)
+Tarnów
+Toruń
+Warsaw
+Wrocław (German: Breslau)
+Poland
+Lisbon
+Transylvania
+Arkhangelsk
+Borodino
+Moscow Kremlin
+Liebental (Lubonironvka)
+Marks (Katharinenstadt)
+Moscow
+Obermunjor (Kriwowskoje)
+Pfeifer (Gnilushka)
+Saint Petersburg
+Schoenchen (Paninskaja)
+Sovetsk, Kaliningrad Oblast
+Mecca
+Medina
+Belgrade
+Singapore
+Nitra
+Slovak
+Idrija
+Travnik, Loški Potok
+Johannesburg
+Kimberley, Northern Cape
+Ladysmith, KwaZulu-Natal
+Pretoria
+Randburg
+A Coruña
+Aledo, Murcia
+Alhambra (a building)
+Almadén
+Altura, Castellón
+Ávila
+Barcelona
+Cádiz
+Cartagena
+Córdoba, Andalusia
+Galisteo, Cáceres, Extremadura
+Granada
+Iberia
+Laredo, Cantabria
+León
+Loja, Granada
+Madrid
+Málaga
+Mahón
+Oviedo
+Palos de la Frontera
+Segovia
+Seville
+Toledo
+Valencia
+Zaragoza
+Dongola
+Khartoum
+Wadi Halfa
+Alsen
+Arboga
+Borgholm
+Boxholm
+Dannemora
+Falun
+Forsby
+Gothenburg
+Gävle
+Kalmar
+Karlstad
+Karlsborg
+Linsell
+Lund
+Malmö
+Malung
+Mora
+Nora
+Ronneby
+Skåne
+Stockholm
+Taberg
+Uppsala
+Älvsborg fortress
+Sweden
+Altdorf
+Bern
+Geneva
+Glarus
+Hallau
+Interlaken
+Kloten
+Langnau im Emmental
+Lausanne
+Lenzburg
+Lucerne
+Maienfeld
+Metzerlen-Mariastein
+Neuchâtel
+Rütli
+Vevey
+Winterthur
+Zürich
+Ankara
+Balta
+Kyiv
+Odesa
+Selz (now Lymanske)
+Sevastopol
+Straßburg (now Kuchurhan, Rozdilna Raion)
+Montevideo
+Samarkand
